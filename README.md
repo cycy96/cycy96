@@ -6,7 +6,7 @@
 
 I am Leong Chee Yan 👩‍💻, 
 <br>
-a highly accomplished individual with a Master's degree in Bioinformatics from the esteemed Universiti Malaya (UM).
+a highly accomplished individual with a Master's degree (With Distinction) in Bioinformatics from the esteemed Universiti Malaya (UM).
 <br>
 I am thrilled to share that I have achieved a remarkable CGPA of 3.9+, 
 demonstrating my consistent dedication and success throughout my academic pursuits.
