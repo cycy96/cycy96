@@ -4,12 +4,11 @@
 
 </div>
 
-I am Leong Chee Yan 👩‍💻, 
-<br>
-a highly accomplished individual with a Master's degree (With Distinction) in Bioinformatics from the esteemed Universiti Malaya (UM).
-<br>
-I am thrilled to share that I have achieved a remarkable CGPA of 3.9+, 
-demonstrating my consistent dedication and success throughout my academic pursuits.
+I am Leong Chee Yan 👩‍💻, a dedicated QA Analyst with experience in designing and developing test cases, test reports, and performing various types of testing and bug tracking. Excellent communication skills and quickly grasping new concepts and ideas.
+
+Exploring new QA methodologies, driving process improvements, and contributing to a culture of quality within the development lifecycle. I find joy in solving complex problems and ensuring that every product release is a testament to quality craftsmanship.
+
+I am open to connecting with fellow QA professionals, developers, and anyone passionate about delivering top-notch software solutions. Feel free to reach out for discussions on QA best practices or industry trends.
 
 - :mailbox:How to reach me: 
 <a href="mailto:lcheeyan0530@gmail.com"> <img src="https://img.shields.io/badge/-Email-blue?style=flat&logo=Email&logoColor=white" alt="Email Badge">
